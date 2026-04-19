@@ -10,16 +10,17 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "^15.3.0",
+    "next": "^15.5.15",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.2",
     "eslint": "^8",
-    "eslint-config-next": "15.1.0",
+    "eslint-config-next": "^15.5.15",
     "postcss": "^8",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.8",
